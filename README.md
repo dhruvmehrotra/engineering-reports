@@ -16,7 +16,7 @@ The primary goal of this repository is to document and reflect on the performanc
 This repository includes:
 
 - ✅ **Weekly and Monthly Insight Reports**  
-- 📊 **Sprint Summaries and Velocity Metrics** <To Do>  
+- 📊 **Sprint Summaries and Velocity Metrics**  
 - 📚 **Team Health Assessments**
 
 ## 🧭 How to Use

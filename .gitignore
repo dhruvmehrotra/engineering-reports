@@ -16,3 +16,49 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+# Rider
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.VC.db
+
+# Build output
+bin/
+obj/
+
+# DotNet
+*.dll
+*.pdb
+*.exe
+*.bootstrap.*
+*.nuget
+*.nupkg
+.vs/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings
+
+# OS-specific
+*.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Rider caches
+.idea/
+.idea/*
+
+# Rider local history
+.idea/localHistory/
+
+# Rider workspace
+.idea/.idea.*
